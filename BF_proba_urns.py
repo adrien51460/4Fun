@@ -1,7 +1,7 @@
 """
 Brute-Forcing a classic probability excercice (from HackerRank)
 
-Problem: Pick up from each urn a ball (3 urns with a certain number of red and black balls).
+Problem: Pick up from each urn a ball (3 urns (X,Y,Z) with a certain number of red and black balls).
          What is the probability of getting 2 red balls and a black one ?
 """
 
